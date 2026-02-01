@@ -23,7 +23,7 @@ Press the button to cycle between modes.
 
 ---
 
-## Customization
+## Parameters
 
 Useful parameters in `configuration.py`:
 
@@ -32,5 +32,3 @@ Useful parameters in `configuration.py`:
 * `PULSE_AMPLITUDE` – strength of the pulse
 * `MIN_V`, `MAX_V` – brightness limits
 * `POLL_INTERVAL` – how often external APIs are queried
-
-Just tell me the audience.
